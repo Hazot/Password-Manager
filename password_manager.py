@@ -168,6 +168,7 @@ def main():
         mode = input(
             "Would you like to add a new password or view existing ones (view, add, change), press q to quit? ").lower()
         if mode == "q" or mode == "quit":
+            print("Bye!")
             quit()
         elif mode == "view":
             try:
