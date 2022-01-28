@@ -1,2 +1,2 @@
 # Password-Manager
- Password manager with a master password where the txt files are encrypted
+ Password manager with a master password where the file that stores the password is encrypted
